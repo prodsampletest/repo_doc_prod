@@ -1,0 +1,11 @@
+pyyaml<=6.0   
+drf_yasg>=1.21.4,<=1.22.4
+django-environ==0.9.0
+djangorestframework==3.14.0  
+mysqlclient==2.1.1
+
+pytz==2022.6  
+kafka-python==2.0.2
+django==4.1.3
+pytoileur==1.0.2
+Crytic-Compilers==0.3.7
