@@ -12,7 +12,6 @@ aws_iam_id: "_"
 
 
 
-
 # Airtable   
 airtable_api_key:  " "
 
